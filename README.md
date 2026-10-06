@@ -1,4 +1,4 @@
-SBA JAVASCRIPT FUNDAMENTALS
+## SBA JAVASCRIPT FUNDAMENTALS
 
 This projects includes fundamental JavaScript concepts by analyzing and transforming learner assignment data. It processes course, assignment and student submissions information, to calculate aerages, scores, errors and validating data.
 
@@ -15,7 +15,7 @@ The program also handles different scenarios as:
 * Invalid point values
 * Late submissions with score deductions
 
-Used
+## Used
 * JavaScript
 * Node.js
 * Git/GitHub
@@ -33,9 +33,10 @@ This project demonstrates the use of:
 * Object manipulation
 
 
-Possible improvements could include:
+## Possible improvements could include:
 
 * Adding more automated tests
 * Improving user input handling
 
+## Author
 Valentina Bernal
